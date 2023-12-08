@@ -15,12 +15,16 @@ The application is designed to work flawlessly on both 'Windows' and 'macOS Cata
 
 ## Mobile Application Conversion
 With the integration of `Capacitor.js`, this project can be effortlessly converted into native Android and iOS applications. This allows users to enjoy the application on their Android devices and iPhones, providing a consistent experience across different platforms.
-
+  ```python
+# Important Note
+The cmd should be opend on the directory that has 'www' file in it
+  ```
 ## Android Developers: Requirments & How to run
 
 - **Node.js:** needs to be installed
 - **VsCode:** preferred to be installed
 - **Android Studio:** needs to be installed, would be cool if you added SDK. Well, it's necessry actually.
+  
   
   ```python
   # Open cmd
