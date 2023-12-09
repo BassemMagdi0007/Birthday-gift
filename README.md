@@ -45,6 +45,8 @@ The cmd should be opend on the directory that has 'www' file in it
   ```
 ### Android
 ![Screenshot (135)](https://user-images.githubusercontent.com/60258792/119457530-143a8900-bd3c-11eb-910d-66eb731d0f5e.png)
+### To build the APK 
+Andoid studio: go to Build -> Build Bundle -> Build Apk 
 
 ## IOS Developers: Requirments & How to run
 
